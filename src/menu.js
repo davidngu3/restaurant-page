@@ -6,7 +6,6 @@ function renderMenuPage() {
     div.innerHTML = "MENU HERE";
 
     content.appendChild(div);
-
 }
 
 export { renderMenuPage };
